@@ -69,7 +69,7 @@ You can [embed](embedding.md) the following resources into a leaderboard:
 
 * ``game`` will embed the full game resource.
 * ``category`` will embed the category used for the leaderboard.
-* ``level`` will embed the category used for the leaderboard.
+* ``level`` will embed the level if it's an individual-level leaderboard.
 * ``players`` will add a new ``players`` element to the leaderboard, containing a flat list of
   all players of all runs on the leaderboard.
 * ``regions`` will add all used regions.
