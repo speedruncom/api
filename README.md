@@ -37,6 +37,7 @@ name and possibly the version number, like ``my-bot/4.20``.
 * [srapi](https://github.com/sgt-kabukiman/srapi) — A relatively bare-bone API client written in Go.
 * [srcomapi](https://github.com/blha303/srcomapi) — A Python library.
 * [Speedrun4J](https://github.com/TsundereBug/Speedrun4J) — A Java library (that does not have getters for all properties yet).
+* [node-speedrun](https://github.com/SwitchbladeBot/node-speedrun) — Node.js wrapper for the speedrun.com API.
 
 ## Content License
 
